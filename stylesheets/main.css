@@ -21,6 +21,10 @@ header h1 {
 nav {
   display: flex;
   justify-content: flex-end;
+  background-color: #333;
+  height: 40px;
+  padding: 0 12px;
+  align-items: center;
 }
 
 nav ul {
@@ -32,3 +36,10 @@ nav ul {
 header a, nav ul a {
   color: #FFF;
 }
+
+footer {
+  background-color: #333;
+  height: 70px;
+  color: #FFF;
+}
+
